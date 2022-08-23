@@ -23,7 +23,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd vue3-tailwind-boilerplate
 ```
 
 Install dependencies
