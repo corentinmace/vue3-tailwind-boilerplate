@@ -1,7 +1,7 @@
 ![Logo](banner-readme.png)
 
 
-# Vue 3 + TailwindCSS Boilterplate
+# Vue 3 + TailwindCSS Boilerplate
 
 A minimal Vue-Tailwind boilerplate with all the best practices
 
